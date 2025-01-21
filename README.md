@@ -1,4 +1,4 @@
-[![MasterHead](![Frame 2](https://github.com/user-attachments/assets/e2bfa7ec-0984-45a4-85e2-63abfa6f8740))](https://SamarthJ2004.io)
+(![Frame 2](https://github.com/user-attachments/assets/e2bfa7ec-0984-45a4-85e2-63abfa6f8740))(https://SamarthJ2004.io)
 <h1 align="center">Hi 👋, I'm Samarth Jindal</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
