@@ -3,6 +3,7 @@
 <h3 align="center">A passionate blockchain developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
 - 🔭 I’m currently working on **Ecopolis and Langchain**
 
 - 🌱 I’m currently learning **Langchain,Rust and Ethereum Protocol in depth**
@@ -20,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- Blockchain Stack -->
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/> </a>
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px;"/> </a>
   <a href="https://bitcoin.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="bitcoin" width="40" height="40"/> </a>
   <a href="https://ipfs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ipfs/ipfs-icon.svg" alt="ipfs" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a>
@@ -45,5 +46,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="gnu_bash" width="40" height="40"/> </a>
   <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg](https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg)" alt="neovim" width="40" height="40"/> </a>
 </p>
