@@ -1,4 +1,4 @@
-![Frame 2](https://github.com/user-attachments/assets/e2bfa7ec-0984-45a4-85e2-63abfa6f8740)
+![banner](https://github.com/user-attachments/assets/2c6545d2-2602-4a5a-bd49-53d479646bd1)
 
 <h1 align="center">Hi 👋, I'm Samarth Jindal</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
