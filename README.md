@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently targeting **Ethereum Protocol Fellowship**
 
-- 🌱 I’m currently learning **Ethereum Core Protocol, Eigen Layer, Rust, Solidity in depth**
+- 🌱 I’m currently learning **Ethereum Core Protocol and Rust**
 
 - 💬 Ask me about **Ethereum, Blockchain, WebDev, AI Agents**
 
